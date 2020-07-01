@@ -69,4 +69,21 @@ section{
     text-align: center;
     font-size: 30px;
 }
+.client{
+    text-align: center;
+}
+.text-new{
+    color: dimgray;
+}
+.button-style-new{
+    text-decoration:none;
+    background-image: linear-gradient(45deg,#EC4F91,#ED4B70);
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
 
